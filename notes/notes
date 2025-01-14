@@ -10,3 +10,18 @@
     4) Version of dependencies is also taken care of.
 
 ⭐️Introduction:
+
+    🎯Creating a springboot application from scratch:
+        1) Create a simple maven project.
+        2) Add the Spring starter web dependency to the pom.xml
+        3) create your hello controllers.
+        4) now create your main methods.
+
+            @ComponetScan
+            @EnableAutoConfiguration
+            public class App{
+                   public static void main(String args[]){
+                        SpringApplication app = new SpringApplication(App.class);
+                        app.run();
+                   }
+            }
