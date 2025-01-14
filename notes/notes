@@ -1,0 +1,12 @@
+► SpringBoot: springboot is a framework which is use to simplify the development
+    of java based web applications.
+
+⭐️Why Springboot?
+    1) It minimizes the boiler plate code , replace XML configurations with
+        annotations and provide pre-configured setups.
+    2) It provides a embedded server (tomcat default).
+    3) It is ideal for building modern microservices due to its features like
+        dependency injection, configuration management, and cloud integration.
+    4) Version of dependencies is also taken care of.
+
+⭐️Introduction:
