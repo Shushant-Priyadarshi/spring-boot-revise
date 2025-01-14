@@ -25,3 +25,14 @@
                         app.run();
                    }
             }
+
+
+
+    🎯Internal working of Springboot.
+
+        1)SpringApplication:
+            SpringApplication.run() method create a web application context and
+            create the IOC CONTAINER which manage all the objects required for the projects.
+            Those classes which is  annotated with @Component the objects are created.
+            Now the App.class or the class is provided in the application run method
+            it will scan all the classes from that package.
