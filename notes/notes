@@ -39,6 +39,7 @@
 
 
     🎯Jar vs Fat Jar Files:
+
         1)Jar Files: collection of .class files (application code)
               code compile => byte code => .class file
 
@@ -50,5 +51,10 @@
                  👉The target folder inside the springboot project gets the jar files of
                               the project and we can share this jar file to anyone and they can directly
                               run our project through that jar file.
+
+
+    🎯Application.properties  VS Application.yml:
+        Application.properties : Properties file with key=value pairs.
+        Application.yml : YAML file with a hierarchical, structured format using indentation.
 
 
