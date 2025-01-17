@@ -10,7 +10,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/my-secrets")
-public class IPL {
+public class Secrets {
 
     @GetMapping("/favourite-foods")
     public String[] getIPLTeams(){

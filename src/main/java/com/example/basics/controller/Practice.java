@@ -9,7 +9,7 @@ import java.util.List;
 @RequestMapping("/api")
 public class Practice {
 
-    private List<String> foods = new ArrayList<>();
+    private final List<String> foods = new ArrayList<>();
 
     @GetMapping
     public List<String> getFoods() {

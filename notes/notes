@@ -62,8 +62,20 @@
 
    👉API(Application Programming Interface) :It's a set of functions and procedures that allow
          applications to access data and features from other applications,services, or operating systems.
-
    👉REST API(Representational State Transfer API): a type of application programming interface (API) that
          allows computer systems to exchange data over the internet.
 
-   
+⭐️SpringBoot vs SpringBoot MVC:
+
+    👉Spring Boot is a framework built on top of the Spring Framework that simplifies the setup, development, and
+    deployment of Spring-based applications. It provides a ready-to-use environment with embedded servers, sensible
+    defaults, and auto-configuration features.
+
+    👉Spring MVC (Model-View-Controller) is a web framework within the larger Spring Framework. It follows the MVC
+    architectural pattern, where:
+        👉Model: Handles data and business logic.
+        👉View: Represents the UI (e.g., JSP, Thymeleaf).
+        👉Controller: Handles HTTP requests and maps them to business logic.
+
+⭐Layered Architecture:
+
