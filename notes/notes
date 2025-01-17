@@ -79,3 +79,5 @@
 
 ⭐Layered Architecture:
 
+    Frontend <=> Controller <=> Service <=> Repository <=> Database
+
